@@ -1,0 +1,10 @@
+.DS_Store
+/Packages
+/sourcemap.json
+/src/Workspace/Packages
+/*.lock
+/*.rbxl
+/*.rbxlx
+/*.rbxm
+/*.rbxmx
+ignore

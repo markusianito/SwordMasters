@@ -1,0 +1,1 @@
+return require(script.Parent._Index["sleitnick_camerashaker@1.0.0"]["CameraShaker"])

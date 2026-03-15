@@ -1,0 +1,10 @@
+{
+    "robloxLsp.workspace.maxPreload": 2000,
+    "robloxLsp.completion.enable": true,
+    "robloxLsp.completion.callParenthesess": true,
+    "robloxLsp.completion.endAutocompletion": true,
+    "robloxLsp.hover.enable": true,
+    "robloxLsp.misc.color3Picker": true,
+    "argon.autoRun": true,
+    "argon.defaultPort": 4550,
+}

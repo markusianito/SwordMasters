@@ -1,0 +1,33 @@
+{
+  "name": "SwordMasters",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "Shared"
+    },
+    "ReplicatedFirst": {
+      "$path": "First"
+    },
+    "ServerScriptService": {
+      "$path": "Server"
+    },
+    "ServerStorage": {
+      "$path": "Private"
+    },
+    "StarterGui": {
+      "$path": "Content"
+    },
+    "StarterPlayer": {
+      "StarterCharacterScripts": {
+        "$path": "Client/Character"
+      },
+      "StarterPlayerScripts": {
+        "$path": "Client/Player"
+      }
+    }
+  },
+  "syncback": {
+    "ignoreNames": ["Assets", "Bup", "LobbyMap", "MarcosStuff", "Lobby", "Exclude", "Ignore"],
+    "ignoreClasses": ["Tool", "Part", "MeshPart", "BasePart", "Model", "WeldConstraing", "Sound", "ValueBase", "Animation"]
+  }
+}

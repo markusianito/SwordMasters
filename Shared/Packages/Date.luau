@@ -1,0 +1,1 @@
+return require(script.Parent._Index["sleitnick_date@1.0.0"]["Date"])

@@ -1,0 +1,1 @@
+return require(script.Parent._Index["sleitnick_tween@1.0.0"]["Tween"])

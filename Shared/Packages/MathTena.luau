@@ -1,0 +1,1 @@
+return require(script.Parent._Index["malcosrub_mathtena@0.1.0"]["MathTena"])

@@ -1,0 +1,1 @@
+return require(script.Parent._Index["malcosrub_solar3@0.1.0"]["Solar3"])
